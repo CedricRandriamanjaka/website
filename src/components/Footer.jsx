@@ -1,7 +1,6 @@
 import { Container, HStack, Icon, Link, Stack } from '@chakra-ui/react';
 import { SiGithub, SiLinkedin, SiX } from 'react-icons/si';
 import { Copyright } from './copyright';
-import { Logo } from './logo';
 
 const socialLinks = [
   { href: 'https://x.com', icon: SiX },

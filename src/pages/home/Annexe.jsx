@@ -1,11 +1,9 @@
 import {
   Box,
-  SimpleGrid,
-  Link,
   Stack,
 } from "@chakra-ui/react";
-import { Heading, Text, Center } from "@chakra-ui/react";
-import { Badge, Button, Card, HStack, Image } from "@chakra-ui/react"
+import { Heading } from "@chakra-ui/react";
+import { Badge, Card, HStack, Image } from "@chakra-ui/react"
 
 import { useColorMode } from "@/components/ui/color-mode";
 import {

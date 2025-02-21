@@ -1,6 +1,6 @@
 import React from "react";
 import "./competence.css";
-import { Heading, Stack, Highlight, Text, Center,Grid } from "@chakra-ui/react";
+import { Heading, Text, Center,Grid } from "@chakra-ui/react";
 import CardCompetence from "./CardCompetence"; // Ajustez le chemin si nécessaire
 import { FrontEndLogo, BackEndLogo, ToolsLogo } from "./Logos";
 import { useTranslation } from "react-i18next";
