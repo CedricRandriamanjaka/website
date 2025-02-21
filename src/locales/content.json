@@ -1,0 +1,282 @@
+{
+  "fr": {
+    "metaData": {
+      "forName": "Cedric",
+      "name": "Randriamanjaka",
+      "titles": [
+        "Développeur Web",
+        "Développeur Fullstack",
+        "Ingénieur Logiciel",
+        "Freelance Tech",
+        "Créateur d’expériences numériques"
+      ],
+      "adresse": "18 rue Kharija Tsaralalana",
+      "tel": "+261 32 72 871 98",
+      "mail": "randriamanjakacedric@gmail.com",
+      "parole1": "Le digital n'est pas juste mon métier, c'est mon terrain de jeu, mon espace d’évolution, mon mode de vie.",
+      "objectif": "Mon objectif : allier passion et expertise pour créer des solutions innovantes et uniques."
+    },
+    "competences": {
+      "title": "Mes compétences",
+      "description": "En tant que développeur, je maîtrise plusieurs langages de programmation backend et frontend. Mais également d’autres atouts qui pourraient être très utiles pour vos projets.",
+      "frontend": {
+        "title": "Frontend",
+        "skills": [
+          {
+            "name": "React",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+            "tooltip": "Bibliothèque pour la création d’interfaces utilisateur"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+            "tooltip": "Langage de programmation web"
+          },
+          {
+            "name": "Chakra UI",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+            "tooltip": "Framework de composants UI"
+          },
+          {
+            "name": "Ionic",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+            "tooltip": "Framework de composants UI"
+          }
+        ]
+      },
+      "backend": {
+        "title": "Backend",
+        "skills": [
+          {
+            "name": "Node.js",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+            "tooltip": "Environnement d’exécution pour JavaScript"
+          },
+          {
+            "name": "Express.js",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+            "tooltip": "Framework pour Node.js"
+          }
+        ]
+      },
+      "tools": {
+        "title": "Outils et Divers",
+        "skills": [
+          {
+            "name": "Git",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+            "tooltip": "Système de gestion de versions"
+          },
+          {
+            "name": "Docker",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+            "tooltip": "Conteneurisation d’applications"
+          }
+        ]
+      }
+    },
+    "timeline": {
+      "title": "Mon Parcours",
+      "description": "Mon parcours professionnel et académique se spécialise dans le développement web.     Mais j’ai également eu d’autres expériences en dehors du développement web.",
+      "filters": {
+        "experience": "parcours professionnelle",
+        "education": "parcours académique",
+        "both": "Les deux",
+        "placeholder": "filtre de vue"
+      },
+      "entries": [
+        {
+          "id": 1,
+          "type": "pro",
+          "title": "Développeur Frontend",
+          "company": "TechCorp",
+          "year": "2022 - Présent",
+          "descriptionMd": "**Missions :**\n- Développement d'interfaces utilisateur avec React et Chakra UI.\n- Optimisation des performances et de l'accessibilité.\n- Collaboration avec l'équipe backend pour une meilleure intégration API."
+        },
+        {
+          "id": 2,
+          "type": "scool",
+          "title": "Licence en Informatique",
+          "company": "Université de Lyon",
+          "year": "2015 - 2018",
+          "descriptionMd": "**Compétences acquises :**\n- Algorithmes et structures de données.\n- Développement web et mobile.\n- Bases de données relationnelles (MySQL, PostgreSQL)."
+        },
+        {
+          "id": 3,
+          "type": "pro",
+          "title": "Développeur Backend",
+          "company": "CodeWorks",
+          "year": "2020 - 2022",
+          "descriptionMd": "**Responsabilités :**\n- Conception et développement d’API REST avec Node.js.\n- Mise en place d’architectures serverless.\n- Sécurisation et performance des applications."
+        },
+        {
+          "id": 4,
+          "type": "scool",
+          "title": "Master en Informatique",
+          "company": "Université de Paris",
+          "year": "2018 - 2020",
+          "descriptionMd": "**Cours suivis :**\n- Intelligence artificielle et Machine Learning.\n- DevOps et automatisation.\n- Sécurité des systèmes d’information."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Mes réalisations",
+      "list": [
+        {
+          "id": 1,
+          "title": "The perfect latte",
+          "image": "https://images.unsplash.com/photo-1667489022797-ab608913feeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+          "badges": [
+            "Hot",
+            "Caffeine"
+          ],
+          "description": "**Caffè latte** est une boisson à base d'expresso et de lait chaud.\n\n- ☕ **Arôme intense**\n- 🥛 **Mousse onctueuse**\n- 🌍 **Origine italienne**\n\n![Tasse de Latte](https://images.unsplash.com/photo-1511920170033-f8396924c348?fit=crop&w=600&h=400)",
+          "descriptionMd": "**Caffè latte** est une boisson à base d'expresso et de lait chaud.\n\n- ☕ **Arôme intense**\n- 🥛 **Mousse onctueuse**\n- 🌍 **Origine italienne**\n\n![Tasse de Latte](https://images.unsplash.com/photo-1511920170033-f8396924c348?fit=crop&w=600&h=400)"
+        },
+        {
+          "id": 2,
+          "title": "Portfolio Web",
+          "image": "https://source.unsplash.com/random/800x600?webdesign",
+          "badges": [
+            "React",
+            "Chakra UI",
+            "Responsive"
+          ],
+          "description": "**Caffè latte** est une boisson à base d'expresso et de lait chaud.\n\n- ☕ **Arôme intense**\n- 🥛 **Mousse onctueuse**\n- 🌍 **Origine italienne**\n\n![Tasse de Latte](https://images.unsplash.com/photo-1511920170033-f8396924c348?fit=crop&w=600&h=400)",
+          "descriptionMd": "Un portfolio **moderne et interactif** créé avec **React** et **Chakra UI**.\n\n- 🎨 **Interface épurée**\n- 📱 **100% Responsive**\n- ⚡ **Optimisé pour le SEO**"
+        },
+        {
+          "id": 3,
+          "title": "Application Mobile",
+          "image": "https://source.unsplash.com/random/800x600?mobileapp",
+          "badges": [
+            "React Native",
+            "Expo",
+            "Cross-platform"
+          ],
+          "description": "**Caffè latte** est une boisson à base d'expresso et de lait chaud.\n\n- ☕ **Arôme intense**\n- 🥛 **Mousse onctueuse**\n- 🌍 **Origine italienne**\n\n![Tasse de Latte](https://images.unsplash.com/photo-1511920170033-f8396924c348?fit=crop&w=600&h=400)",
+          "descriptionMd": "Application mobile développée avec **React Native** et **Expo**, compatible **Android & iOS**.\n\n- 📱 **Performance optimisée**\n- 🚀 **Expérience fluide**\n- 🔄 **Synchronisation en temps réel**"
+        }
+      ]
+    },
+    "interface": {
+      "introTitles": "À votre service en tant que",
+      "maimenu": "Mon IA",
+      "memenu": "Moi",
+      "contactmenu": "Contact"
+    },
+    "myia": {
+      "introIA": "Bonjour, je suis Hozaari, l’assistant virtuel de Cedric Randriamanjaka. Comment puis-je vous aider ?",
+      "quickSuggestions": [
+        {
+          "label": "Qui est Cedric ?",
+          "icon": "FaUser",
+          "description": "Hozaari, peux-tu me présenter Cedric Randriamanjaka ?"
+        },
+        {
+          "label": "Compétences de Cedric",
+          "icon": "FaCode",
+          "description": "Hozaari, quelles sont les compétences principales de Cedric ?"
+        },
+        {
+          "label": "Ses projets marquants",
+          "icon": "FaProjectDiagram",
+          "description": "Hozaari, peux-tu me parler des projets marquants de Cedric ?"
+        },
+        {
+          "label": "Collaborer avec Cedric",
+          "icon": "FaHandshake",
+          "description": "Hozaari, comment puis-je collaborer avec Cedric ?"
+        }
+      ],
+      "systemInstruction": "Tu es un assistant appelé Hozaari. Tu dois répondre de manière claire et concise, en fournissant des informations utiles et précises. Évite les réponses vagues et adapte ton ton selon la question posée.",
+      "thinkingMsg": "Hozaari réfléchit...",
+      "inputPlacholder": "Comment puis-je vous aider ?",
+      "noUnderstand": "Je n'ai pas compris votre demande. Pouvez-vous reformuler ?",
+      "noResult": "Je n'ai pas trouvé de résultat pour votre demande. Pouvez-vous reformuler ?"
+    },
+    "contact": {
+      "title": "Mes Informations de Contact",
+      "champ": {
+        "adresse": "Adresse : ",
+        "tel": "Téléphone : ",
+        "mail": "Email : ",
+        "follow": "Suivez-moi :",
+        "formTitle": "Contact direct",
+        "formHelper": "Veuillez fournir vos coordonnées ci-dessous pour me contacter directement.",
+        "nom": "Nom",
+        "email": "Adresse Email",
+        "comment": "Commentaire",
+        "commentHelper": "Max 500 caractères.",
+        "envoyer": "Envoyer"
+      }
+    }
+  },
+  "en": {
+    "metaData": {
+      "forName": "Cedric",
+      "name": "Randriamanjaka",
+      "titles": [
+        "Web Developer",
+        "Fullstack Developer",
+        "Software Engineer",
+        "Freelance Tech",
+        "Creator of digital experiences"
+      ],
+      "adresse": "18 Kharija Street, Tsaralalana",
+      "tel": "+261 32 72 871 98",
+      "mail": "randriamanjakacedric@gmail.com"
+    },
+    "interface": {
+      "introTitles": "At your service as",
+      "maimenu": "My AI",
+      "memenu": "Me",
+      "contactmenu": "Contact"
+    },
+    "myia": {
+      "introIA": "Hello, I'm Hozaari, the virtual assistant of Cedric Randriamanjaka. How can I help you?",
+      "quickSuggestions": [
+        {
+          "label": "Color Palette",
+          "icon": "FaPalette",
+          "description": "Generate a color palette from an image"
+        },
+        {
+          "label": "Generate Image",
+          "icon": "FaImage",
+          "description": "Generate an image from a text prompt"
+        },
+        {
+          "label": "React Component",
+          "icon": "FaCode",
+          "description": "Generate a React code from prompt"
+        },
+        {
+          "label": "Voice Magic",
+          "icon": "FaMagic",
+          "description": "Create a magical UI from voice"
+        }
+      ],
+      "thinkingMsg": "Hozaari is thinking...",
+      "inputPlacholder": "How can I help you?",
+      "noUnderstand": "I didn't understand your request. Could you rephrase?",
+      "noResult": "I couldn't find a result for your request. Could you rephrase?"
+    },
+    "contact": {
+      "title": "My Contact Information",
+      "champ": {
+        "adresse": "Address: ",
+        "tel": "Phone: ",
+        "mail": "Email: ",
+        "follow": "Follow me:",
+        "formTitle": "Direct Contact",
+        "formHelper": "Please provide your details below to contact me directly.",
+        "nom": "Name",
+        "email": "Email Address",
+        "comment": "Comment",
+        "commentHelper": "Max 500 characters.",
+        "envoyer": "Send"
+      }
+    }
+  }
+}
